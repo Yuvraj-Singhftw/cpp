@@ -1,0 +1,4 @@
+# ignore compiled binaries and debug symbols 
+conditional
+*.dSYM/
+.vscode/
