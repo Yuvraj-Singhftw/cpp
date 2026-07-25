@@ -2,3 +2,5 @@
 conditional
 *.dSYM/
 .vscode/
+evenorodd
+area_rec
