@@ -12,3 +12,5 @@ ternaryex1
 ap 
 gp
 highfactor
+# macOS system files
+.DS_Store
