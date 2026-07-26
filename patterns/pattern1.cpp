@@ -6,7 +6,7 @@ int main(){
     cin>> r;
     for(int i = 1; i<=r; i++){
         for(int j = 1; j<=i; j++){ //
-            cout<<  " * "; // 64 for A and 96 for a
+            cout<< "* "; // 64 for A and 96 for a
         }
         cout<< endl;
     }
