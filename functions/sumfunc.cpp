@@ -6,7 +6,7 @@ void sum(int a, int b){
 }
 int main(){
     int a,b;
-    cout<<"Enter two numbers: ";
+    cout<<"Enter two numbers: " <<endl;
     cin>>a>>b;
     sum(a,b);
     return 0;
