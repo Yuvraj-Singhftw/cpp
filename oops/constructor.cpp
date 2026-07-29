@@ -7,9 +7,13 @@ public:
     int price;
     float seats;
     string name;
+     
 
+    car(){//default constructor
 
-    car(string s,int r,float f){
+    }
+
+    car(string s,int r,float f){// parameterised consutructor
         name = s;
         seats = f;
         price = r;
@@ -19,7 +23,7 @@ public:
     }
 
 };
-void print(car c){
+ void print(car c){
     cout<<"the specifications are"<<" "<<endl;
     cout<<c.name<<" "<<c.price<<" "<<c.seats<<" "<<endl;
 }
