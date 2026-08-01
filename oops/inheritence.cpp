@@ -17,4 +17,6 @@ int main (){
     Bike b1;
     b1.speed = 180;
     
+    return 0;
+    
 }
