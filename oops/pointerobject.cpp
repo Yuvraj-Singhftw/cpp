@@ -31,6 +31,7 @@ int main (){
 
     Cricketer* ptr = &c1;
     cout<<(*ptr).runs<<endl;
+    cout<<" "<<endl;
     
     return 0;
 
