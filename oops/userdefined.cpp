@@ -61,5 +61,6 @@ void print(){
    v.print();
    cout<<v.size<<" "<<v.capacity<<" ";
    cout<<v.get(2)<<" ";
+   cout<<" "<<endl;
  return 0;
 }
